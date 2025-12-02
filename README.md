@@ -19,69 +19,108 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+> Replace **yourusername** in the link below with your actual GitHub username.
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/yourusername)
+
 -->
-Hi there 👋
 
-I'm a Lead Full Stack Developer with over 11 years of experience in designing, developing, and deploying robust, high-quality web applications. I specialize in leveraging technologies like Node.js, Angular, React, and Java/Spring Boot, and I have a strong background in cloud computing (AWS, Firebase), database management (PostgreSQL, MongoDB, ElasticSearch), and the full software development lifecycle.
+### Hi there 👋
 
-I thrive in leadership roles, architecting scalable solutions, and driving teams to build high-impact software that aligns with business goals and enhances user experience.
+I'm a **Lead Full Stack Developer** with **11+ years of experience** in designing, developing, and deploying robust, scalable web applications. I specialize in **Node.js**, **Angular**, **React**, and **Java/Spring Boot** and have deep expertise in **cloud computing (AWS, Firebase)**, **database management (PostgreSQL, MongoDB, ElasticSearch)**, and the **full software development lifecycle**.  
 
-🚀 Technologies & Tools
-<p align="left"> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /> </a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /> </a> </p> <p align="left"> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /> </a> </p> <p align="left"> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /> </a> </p> <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /> </a> </p>
-💡 Key Strengths & Expertise
-Full Stack Development
+I excel at architecting scalable systems, leading engineering teams, and delivering high-quality software aligned with business and user needs.
 
-With extensive experience in building full-stack applications, I specialize in both client-side and server-side technologies, creating scalable, efficient, and user-friendly solutions. I have expertise in:
+---
 
-Frontend: Angular, React, Vue.js, Next.js, HTML, CSS
+### 🚀 Technologies & Tools
 
-Backend: Node.js, Java/Spring Boot, Express, NestJS, Fastify, GraphQL
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>
 
-Cloud & DevOps
+<p align="left">
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
+</p>
 
-I have deep knowledge of cloud computing (AWS, Firebase) and infrastructure automation, ensuring that applications are highly available, secure, and scalable. My experience includes:
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-Cloud Services: AWS (ECS, EC2, ECR, S3, DynamoDB, Lambda)
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-Containerization & Orchestration: Docker, Kubernetes
+---
 
-CI/CD & Automation: GitHub, Terraform, Pulumi, Jenkins
+### 💡 Key Strengths & Expertise
 
-Database Management
+#### **Full Stack Development**
+Expert in building full stack applications using **Node.js**, **Angular**, **React**, **Vue.js**, and **Java/Spring Boot**. Skilled at building scalable APIs, microservices, and user-centric frontends.
 
-I have hands-on experience with both relational and NoSQL databases:
+#### **Cloud & DevOps**
+Strong experience with **AWS**, **Firebase**, containerization, and modern DevOps practices:
+- AWS (ECS, EC2, Lambda, S3, ECR, DynamoDB)
+- Docker, Kubernetes
+- CI/CD automation with GitHub Actions, Terraform, Pulumi
 
-Relational Databases: PostgreSQL
+#### **Database Management**
+Skilled in managing relational and NoSQL databases:
+- **PostgreSQL**, **MongoDB**, **ElasticSearch**, **DynamoDB**
+- Data modeling, indexing, optimization, caching strategies
 
-NoSQL Databases: MongoDB, DynamoDB, ElasticSearch
+#### **CMS Architecture & Integration**
+Experienced in integrating and architecting headless CMS solutions:
+- Contentful, Strapi, Webiny, Marble CMS
+- Next.js + Node.js content-driven architectures
+- Scalable content pipelines and SEO-friendly implementations
 
-CMS Architecture & Integration
+#### **SDLC & Leadership**
+Skilled in Agile/Scrum, requirements gathering, planning, architecture, testing, deployment, and mentoring engineering teams.
 
-I have built and integrated headless CMS architectures with Contentful, Strapi, and Webiny CMS into full-stack applications, enabling flexibility in content management and delivery.
+---
 
-🛠️ Technical Skills
-Programming & Languages:
+### 🛠️ Technical Skills
 
-Node.js, JavaScript, TypeScript, Java, Python, (S)CSS, HTML
+**Programming & Languages**  
+Node.js | JavaScript | TypeScript | Java | Python | HTML | (S)CSS
 
-Libraries & Frameworks:
+**Libraries & Frameworks**  
+Angular | React | Vue.js | Next.js | GraphQL | Spring Boot | NestJS | Express | Fastify | Flask | FastAPI | Hapi.js | Passport
 
-Angular, React, Vue.js, Next.js, Spring Boot, GraphQL, NestJS, Express, Hapi.js, Fastify, Flask, FastAPI, GraphQL
+**Tools & Services**  
+PostgreSQL | MongoDB | ElasticSearch | DynamoDB | Firebase | Git | AWS | Linux | Bash
 
-Tools & Services:
+**Deployments & Infra**  
+Docker | Kubernetes | Terraform | Pulumi | GitHub Actions | AWS ECS/ECR/S3/EC2/Secrets Manager
 
-PostgreSQL, ElasticSearch, MongoDB, Firebase, AWS, Docker, Git, Linux, Bash Script
+---
 
-Deployment & Infrastructure:
+### 🌱 Currently Working On
+- Architecting cloud-native systems with AWS, Docker, and Kubernetes  
+- Developing full-stack apps with React, Angular, Node.js  
+- Improving CI/CD automation using GitHub workflows  
+- Building scalable headless CMS solutions with Contentful/Webiny  
 
-AWS, Terraform, Pulumi, Kubernetes, Docker, CI/CD, GitHub Actions, ECS, ECR, S3, Lambda
+---
 
-🌱 Currently Focused On
+### 🎓 Education
 
-Cloud-Native Applications: Deploying and scaling applications in the cloud using AWS, Docker, and Kubernetes.
+**Master of Computer Applications (2011–2014)**  
+Gujarat Technological University
 
-Full Stack Projects: Leveraging modern frameworks and libraries (React, Angular, Node.js) to build responsive, interactive user interfaces and robust backend systems.
+---
 
-CI/CD Pipelines: Automating deployment and testing to improve delivery speed and software quality.
+Feel free to explore my repositories — I'm always open to collaborating on exciting projects!
 
-CMS Integration: Implementing and customizing headless CMS solutions like Contentful and Webiny to optimize content management workflows.
