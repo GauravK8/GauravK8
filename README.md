@@ -32,10 +32,11 @@
 
 ### Hi there 👋
 
+<!--
 I'm a **Lead Full Stack Developer** with **11+ years of experience** in designing, developing, and deploying robust, scalable web applications. I specialize in **Node.js**, **Angular**, **React**, and **Java/Spring Boot** and have deep expertise in **cloud computing (AWS, Firebase)**, **database management (PostgreSQL, MongoDB, ElasticSearch)**, and the **full software development lifecycle**.  
 
 I excel at architecting scalable systems, leading engineering teams, and delivering high-quality software aligned with business and user needs.
-
+-->
 ---
 
 ### 🚀 Technologies & Tools
@@ -63,7 +64,7 @@ I excel at architecting scalable systems, leading engineering teams, and deliver
 </p>
 
 ---
-
+<!--
 ### 💡 Key Strengths & Expertise
 
 #### **Full Stack Development**
@@ -121,6 +122,6 @@ Docker | Kubernetes | Terraform | Pulumi | GitHub Actions | AWS ECS/ECR/S3/EC2/S
 Gujarat Technological University
 
 ---
-
+-->
 Feel free to explore my repositories — I'm always open to collaborating on exciting projects!
 
